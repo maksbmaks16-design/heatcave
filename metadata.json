@@ -1,0 +1,5 @@
+{
+  "name": "Visual Sitemap Generator",
+  "description": "Generate a visual tree structure of any website's subpages by providing its URL.",
+  "requestFramePermissions": []
+}
